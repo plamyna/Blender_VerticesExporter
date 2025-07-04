@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Vertices Exporter",
-    "author": "KRR",
+    "author": "Plamyna",
     "version": (1, 0, 0),
     "blender": (2, 80, 0),
     "location": "View3D > Sidebar > Vertex Exporter",
